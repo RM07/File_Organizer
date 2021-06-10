@@ -1,0 +1,23 @@
+{
+  "name": "File_Organizer",
+  "version": "1.0.0",
+  "description": "Nodejs script to help user manage files of a particular folder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RM07/File_Organizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RM07/File_Organizer/issues"
+  },
+  "homepage": "https://github.com/RM07/File_Organizer#readme",
+  "bin": {
+    "filetreeorg": "main.js"
+  }
+}
